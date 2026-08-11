@@ -4,7 +4,7 @@ A distributed Saga Pattern orchestrator built from scratch in Go — no framewor
 
 Implements the choreography of local transactions with automatic compensation on failure, persistent state in PostgreSQL, and structured JSON logging.
 
-> Built as part of a backend portfolio. Watch the full coding session on [YouTube →](https://www.youtube.com/@FranSammauro)
+> Built as part of a backend portfolio. Watch the full coding session on [YouTube →](https://m.youtube.com/watch?v=RidT9Pq96Vc&t=2034s&pp=ygUNRnJhbiBTYW1tYXVybw%3D%3D)
 
 ---
 
